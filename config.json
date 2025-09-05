@@ -1,0 +1,14 @@
+{
+  "playlists": [
+    {
+      "name": "IPTV.org English",
+      "m3u_url": "https://iptv-org.github.io/iptv/languages/eng.m3u",
+      "epg_url": "https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
+    },
+    {
+      "name": "Another Playlist",
+      "m3u_url": "https://example.com/playlist2.m3u",
+      "epg_url": "https://example.com/epg2.xml.gz"
+    }
+  ]
+}
