@@ -34,10 +34,9 @@ Before you begin, ensure you have the following installed on your system:
 ## Installation & Setup
 
 1.  **Clone the repository or download the script `term-tv.py`.**
-    (If you are using Git)
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-directory>
+    git clone <[your-repo-url](https://github.com/pasiegel/Term-TV.git)>
+    cd <Term-TV>
     ```
 
 2.  **Install the required Python package:**
